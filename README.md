@@ -1,36 +1,35 @@
-<h3 title="hehehe"> Hey 👋, I'm Jaskirat!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Frank!</h3>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/frank-mijhael-bendezu-hinostroza">
+  <img align="left" alt="FrankM01 LinkedIn" width="24px" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
 </a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/frankm_01/">
+  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://twitter.com/FrankM_01">
+  <img align="left" alt="FrankM01 Twitter" width="24px" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" />
 </a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+<a href="https://www.youtube.com/@frankM01">
+  <img align="left" alt="FrankM01 Twitter" width="24px" src="https://img.icons8.com/doodle/1x/youtube--v2.png" />
 </a>
-
 
 
 
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+A **SOFTWARE DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
+- 👨🏽‍💻 I’m currently a CSE Undergrad student at Private University of the North, UPN.
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in frontend web development and backend development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 📫 Email me at [frankmijhael01@gmail.com](mailto:frankmijhael01@gmail.com).
 
 
 
@@ -38,6 +37,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
